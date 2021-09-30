@@ -1,15 +1,12 @@
-# PlatformUI Vue Bootstrap Admin Template
-
 ### Installation
 
 #### Clone repo
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/waltermwanyisa/apps.git PlatformUI
+$ https://github.com/rugube/BulkSMS-Platform.git
 
 # go into app's directory
-$ cd PlaformUI
 
 # install app's dependencies
 $ npm install
